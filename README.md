@@ -17,6 +17,6 @@
 ### Entre em contato comigo através do e-mail ou Linkedin:
  
 <div> 
-   <a href = "mailto:marianagava1@hotmail.com"><img src="https://img.shields.io/badge/-E-mail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:marianagava1@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-gava-849a77159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
