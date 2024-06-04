@@ -17,6 +17,6 @@
 ### Entre em contato comigo através do e-mail ou Linkedin:
  
 <div> 
-   <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "mailto:marianagava1@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-gava-849a77159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
